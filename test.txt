@@ -1,4 +1,4 @@
 A;X
 C,D;Y
-B:X
-A,C,D:Z
+B;X
+A,C,D;Z
